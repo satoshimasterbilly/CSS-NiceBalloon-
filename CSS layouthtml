@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html>
+<head>
+  <title>Layout Master</title>
+  <link rel="stylesheet" type="text/css" href="./layoutstyle.css">
+</head>
+</body>
+<body>
+  <nav class="zone blue sticky">
+    <ul class="main-nav">
+        <li><a href="">About</a></li>
+        <li><a href="">Products</a></li>
+        <li><a href="">Our Team</a></li>
+        <li class="push"><a href="">Contact</a></li>
+    </ul>
+  </nav>
+  <div class="container zone white"><img class="cover" src="file:///Users/williammcdavid/Desktop/balloon.jpg" alt="chimp.jpg"  width="2000" height="340"></div>
+  <div class="zone blue grid-wrapper">
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/49834729061_a1936896b5_w.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/blockchainmap.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/annie-spratt-QckxruozjRg-unsplash.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/absolutvision-uCMKx2H1Y38-unsplash.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/absolutvision-uCMKx2H1Y38-unsplash.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/belted%20galloway.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/blockchain.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/blockchain%20studyM-unsplash.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/blockchainmap.jpg" width="200" height="150"></div>
+    <div class="box zone"><img src="file:///Users/williammcdavid/Desktop/fotos/books.jpg" width="200" height="150"></div>
+  </div>
+  <footer class="zone yellow">made by z =&gt; m</footer>
+
+
+</body>
+</body>
+</html>
